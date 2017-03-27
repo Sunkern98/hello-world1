@@ -3,6 +3,8 @@ using namespace std;
 void main()
 {
 	char something;
-	cout << "hello world!";
+	int i = 0;
+	for (i < 0; i = 1;)
+		cout << "hello world!";
 	cin >> something;
 }
